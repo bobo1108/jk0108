@@ -1,0 +1,12 @@
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\controller\basicinfo\factory\FactoryController.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\dao\BaseDao.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\domain\Factory.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\service\impl\FactoryServiceImpl.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\pagination\PageInterceptor.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\service\FactoryService.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\dao\FactoryDao.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\dao\impl\BaseDaoImpl.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\controller\BaseController.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\controller\HomeController.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\pagination\Page.java
+D:\eclipse-workspace\jk\src\main\java\cn\itcast\jk\dao\impl\FactoryDaoImpl.java
